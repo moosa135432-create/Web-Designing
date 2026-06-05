@@ -1,0 +1,111 @@
+#me{
+    height: 70px;
+    border: 7px solid white;
+    padding-top: 5px;
+    background-color: black;
+}
+.pm{
+    display: inline-block;
+    margin: 20px 70px;
+    color: white;
+    text-decoration: none;
+
+
+}
+#cc{
+    border: 4px white solid;
+    height: 70px;
+    background-color: black;
+    padding-top: 5px;
+    position: sticky;
+    top: 0px;
+    
+}
+body{
+    background-color:rgb(181, 108, 108);
+    
+     background-size: contain;
+}
+#parent {
+    width: 100%;
+    height: 100vh;
+     background-image: url(./Screenshot\ \(11\).png);
+     position: relative;
+    
+}
+#am{
+    text-decoration: none;
+    color: #f08804;
+}
+.mm{
+    text-decoration: none;
+    margin: 0px 100px;
+    color: white;
+}
+#em{
+    margin-left: 100px;
+
+}
+#sb{
+    background-color: #f08804;
+}
+#hm{
+    text-align: center;
+    text-transform: capitalize;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: black;
+    color: white;
+    
+}
+
+#b1{
+    height: 300px;
+    width: 300px;
+    border: 2px solid rgb(0, 255, 255);
+    position: absolute;
+    
+    background-image: url(./Screenshot\ \(12\).png);
+    background-size: contain;
+    left: 0px;
+    top:40px ;
+   
+    
+}
+#b2{
+     height: 300px;
+    width: 300px;
+    border: 2px dotted rgb(255, 162, 0);
+    background-image: url(./Screenshot\ \(13\).png);
+    /* background-color: #f08804; */
+    background-size: contain;
+    position: absolute;
+    left: 304px;
+    top: 40px;
+
+}
+#b3{
+     height: 300px;
+    width: 300px;
+    border: 2px double rgb(100, 40, 41);
+    position: absolute;
+    left: 608px;
+    top: 40px;
+    background-image: url(./Screenshot\ \(15\).png);
+    background-size: contain;
+    
+}
+#b4{
+     height: 300px;
+    width: 300px;
+    border: 2px solid rgb(63, 87, 44);
+    position: absolute;
+    left:912px;
+    top: 40px;
+    background-image: url(./Screenshot\ \(18\).png);
+    background-size: contain;
+
+}
+
+
+
+

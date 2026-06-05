@@ -1,0 +1,14 @@
+#me{
+    height: 70px;
+    border: 7px solid white;
+    padding-top: 5px;
+    background-color: black;
+}
+.pm{
+    display: inline-block;
+    margin: 20px 70px;
+    color: white;
+    text-decoration: none;
+
+
+}

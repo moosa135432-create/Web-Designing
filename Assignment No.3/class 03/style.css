@@ -1,0 +1,76 @@
+#me{
+    height: 70px;
+    border: 7px solid white;
+    padding-top: 5px;
+    background-color: black;
+}
+.pm{
+    display: inline-block;
+    margin: 20px 70px;
+    color: white;
+    text-decoration: none;
+
+
+}
+#cc{
+    border: 4px white solid;
+    height: 70px;
+    background-color: black;
+    padding-top: 5px;
+
+    
+}
+body{
+    background-color:rgb(181, 108, 108);
+    
+    background-size: contain;
+}
+#am{
+    text-decoration: none;
+    color: #f08804;
+}
+.mm{
+    text-decoration: none;
+    margin: 0px 100px;
+    color: white;
+}
+#em{
+    margin-left: 100px;
+
+}
+#sb{
+    background-color: #f08804;
+}
+#wp{
+    height: 100px;
+    width: 100px;
+    border: 2px pink solid;
+    background-color:rgb(31, 31, 95);
+    margin: 50px 0px 20px 0px;
+    display: inline-block;
+    color: white;
+
+}
+#cs{
+    height: 100px;
+    width: 100px;
+    border: 3px rgb(255, 0, 0) double ;
+    background-color: #f08804;
+    margin:30px 0px 20px 90px ;
+    background-image: url(./Moosa\ Name\ Arabic\ Calligraphy.jfif);
+    background-size: contain;
+}
+#p4{
+     height: 100px;
+    width: 100px;
+    border: 3px rgb(255, 0, 0) dotted ;
+    background-color: #00ac00;
+    margin:30px 0px 20px 180px ;
+}
+#img{
+    position: absolute;
+    left: 300px;
+    height: 470px;
+    width:1280px;
+    margin-top: 10px;
+}
