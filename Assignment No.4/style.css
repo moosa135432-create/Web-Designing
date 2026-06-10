@@ -1,0 +1,39 @@
+.mon{
+    height: 70px;
+    border: 2px solid black;
+}
+.nom{
+    width: 100%;
+    height: 150px;
+    text-align: center;
+}
+.non{
+    height: 300px;
+}
+.man{
+    height: 100px;
+    border: 2px solid black;
+    margin-top:10px;
+    background-color: black;
+    border-radius:20px;
+}
+.on{
+    text-align: center;
+    margin-top: 30px;
+    color: white;
+}
+.bor{
+    border: 2px solid black;
+    margin-top: 10px;
+}
+.rob{
+     border: 2px solid black;
+     margin-top: 10px;
+     border-radius: 15px;
+}
+.per{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+}
